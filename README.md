@@ -11,7 +11,7 @@ Proyek ini berisi implementasi simulasi logika flip-flop pada **PLC Omron CP1L**
 - **Simulasi Logika Flip-Flop**: Implementasi logika dasar flip-flop (set/reset) pada PLC Omron CP1L.
 - **Penggunaan CX-Programmer**: Alat untuk menulis, menguji, dan mendebug program pada PLC Omron CP1L.
 - **Desain HMI dengan CX-Designer**: Visualisasi pengendalian sistem otomatisasi menggunakan antarmuka pengguna grafis.
-- 
+  
 ### Teknologi yang Digunakan:
 - **PLC Omron CP1L**
 - **Pemrograman Ladder Logic** (Ladder Diagram)
